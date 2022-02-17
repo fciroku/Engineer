@@ -1,0 +1,2 @@
+ INFO 2022-02-17 23:00:14,666 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/fciroku/Engineer/main/ontology-network/musical-performance/RecordingProcess/SPARQLUnitTest/CQTestCase/CQTestCase.ttl
+ INFO 2022-02-17 23:00:17,643 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/fciroku/Engineer/main/ontology-network/musical-performance/RecordingProcess/SPARQLUnitTest/CQTestCase/CQTestCase.ttl doesn't define any test case.
